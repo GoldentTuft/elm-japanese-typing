@@ -27,9 +27,6 @@ module Typing exposing
 
 @docs Data, Rules, PrintRule, State
 
-
-#
-
 -}
 
 
